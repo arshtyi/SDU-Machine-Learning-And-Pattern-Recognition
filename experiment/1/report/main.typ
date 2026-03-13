@@ -57,7 +57,7 @@
     == 梯度下降算法
     接下来实现梯度下降算法来拟合线性回归模型
     ```python
-    theta = np.zeros(x.shape[1])
+        theta = np.zeros(x.shape[1])
     learning_rate = 0.07
     max_iter_times = 1500
     loss_set = []
@@ -69,15 +69,26 @@
         theta -= learning_rate * gradients
         cost = np.sum(loss**2) / (2 * m)
         loss_set.append(cost)
+
+    print("Iteration times:", max_iter_times)
+    print(f"Trained weights: theta_0={theta[0]:.4f}, theta_1={theta[1]:.4f}")
+
+    fig = plt.figure(figsize=(12, 5))
+    ax1 = fig.add_subplot(121)
+    ax1.scatter(x[:, 1], y, marker="o", label="Training data")
+    ax1.plot(x[:, 1], np.dot(x, theta), color="red", label="Linear regression")
+    ax1.set_xlabel("Age in years")
+    ax1.set_ylabel("Height in meters")
+    ax1.set_title("Linear Regression Fit")
+    ax1.legend()
+    ax2 = fig.add_subplot(122)
+    ax2.plot(range(max_iter_times), loss_set)
+    ax2.set_title("Loss vs. Iterations")
+    ax2.set_xlabel("Step")
+    ax2.set_ylabel("Loss")
+    plt.show()
     ```
-    得到的拟合结果如@F2
-    // #subpar.grid(
-    //     columns: (1fr, 1fr),
-    //     figure(image("../output/2.png")), <F2-S1>,
-    //     figure(image("../output/3.png")), <F2-S2>,
-    //     label: <F2>,
-    //     // caption: [@F2-S1: 线性回归拟合结果 @F2-S2: 代价函数曲线],
-    // )
+    得到的拟合结果及其效果如@F2
     #figure(image("../output/2.png"))<F2>
     == 预测未知数据
     使用训练好的模型对未知数据进行预测
@@ -101,21 +112,18 @@
     T0, T1 = np.meshgrid(theta0_vals, theta1_vals)
 
     fig = plt.figure(figsize=(12, 5))
-
     ax1 = fig.add_subplot(121, projection="3d")
     ax1.plot_surface(T0, T1, loss_j, cmap="viridis", alpha=0.9)
     ax1.set_xlabel(r"$\theta_0$")
     ax1.set_ylabel(r"$\theta_1$")
     ax1.set_zlabel("Loss")
     ax1.set_title("Surface plot")
-
     ax2 = fig.add_subplot(122)
     contour = ax2.contour(T0, T1, loss_j, np.logspace(-2, 3, 20))
     ax2.plot(theta[0], theta[1], "rx", markersize=10, linewidth=2)
     ax2.set_xlabel(r"$\theta_0$")
     ax2.set_ylabel(r"$\theta_1$")
     ax2.set_title("Contour plot")
-
     plt.show()
     ```
     #figure(image("../output/3.png"))<F3>
