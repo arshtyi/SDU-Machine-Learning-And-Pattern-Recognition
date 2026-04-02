@@ -1,0 +1,298 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Experiment 3: Linear Discriminant Analysis",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          152.40234375,
+          163.168701171875
+        ],
+        [
+          458.3016662597656,
+          163.168701171875
+        ],
+        [
+          458.3016662597656,
+          180.3841552734375
+        ],
+        [
+          152.40234375,
+          180.3841552734375
+        ]
+      ]
+    },
+    {
+      "title": "1 Description",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          133.7679901123047,
+          260.64093017578125
+        ],
+        [
+          239.0260467529297,
+          260.64093017578125
+        ],
+        [
+          239.0260467529297,
+          274.9871826171875
+        ],
+        [
+          133.7679901123047,
+          274.9871826171875
+        ]
+      ]
+    },
+    {
+      "title": "2 Data",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          133.7679901123047,
+          315.407958984375
+        ],
+        [
+          192.2718048095703,
+          315.407958984375
+        ],
+        [
+          192.2718048095703,
+          329.754150390625
+        ],
+        [
+          133.7679901123047,
+          329.754150390625
+        ]
+      ]
+    },
+    {
+      "title": "3 LDA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          132.6796875,
+          406.0399475097656
+        ],
+        [
+          191.75534057617188,
+          406.0399475097656
+        ],
+        [
+          191.75534057617188,
+          420.3861389160156
+        ],
+        [
+          132.6796875,
+          420.3861389160156
+        ]
+      ]
+    },
+    {
+      "title": "3.1 LDA for 2 Classes",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          133.7679901123047,
+          431.72259521484375
+        ],
+        [
+          271.001708984375,
+          431.72259521484375
+        ],
+        [
+          271.001708984375,
+          443.67779541015625
+        ],
+        [
+          133.7679901123047,
+          443.67779541015625
+        ]
+      ]
+    },
+    {
+      "title": "3.2 Projection Points",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          131.783203125,
+          328.1716613769531
+        ],
+        [
+          267.2358703613281,
+          328.1716613769531
+        ],
+        [
+          267.2358703613281,
+          340.1268615722656
+        ],
+        [
+          131.783203125,
+          340.1268615722656
+        ]
+      ]
+    },
+    {
+      "title": "3.3 LDA for N Classes",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          133.76800537109375,
+          546.43359375
+        ],
+        [
+          274.7915344238281,
+          546.43359375
+        ],
+        [
+          274.7915344238281,
+          559.2458038330078
+        ],
+        [
+          133.76800537109375,
+          559.2458038330078
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          37
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          27
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          3
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\ex3"
+}

@@ -1,0 +1,260 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Experiment 4: Logistic Regression and\nNewton's Method",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          159.8520050048828,
+          164.42938232421875
+        ],
+        [
+          433.61328125,
+          164.42938232421875
+        ],
+        [
+          433.61328125,
+          203.5623779296875
+        ],
+        [
+          159.8520050048828,
+          203.5623779296875
+        ]
+      ]
+    },
+    {
+      "title": "1 Description",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          124.802001953125,
+          283.6661376953125
+        ],
+        [
+          230.06588745117188,
+          283.6661376953125
+        ],
+        [
+          230.06588745117188,
+          298.01214599609375
+        ],
+        [
+          124.802001953125,
+          298.01214599609375
+        ]
+      ]
+    },
+    {
+      "title": "2 Data",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          122.80859375,
+          349.8740234375
+        ],
+        [
+          183.31228637695312,
+          349.8740234375
+        ],
+        [
+          183.31228637695312,
+          364.7341613769531
+        ],
+        [
+          122.80859375,
+          364.7341613769531
+        ]
+      ]
+    },
+    {
+      "title": "3 Plot the Data",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          124.5546875,
+          536.6611633300781
+        ],
+        [
+          246.5332794189453,
+          536.6611633300781
+        ],
+        [
+          246.5332794189453,
+          551.0071716308594
+        ],
+        [
+          124.5546875,
+          551.0071716308594
+        ]
+      ]
+    },
+    {
+      "title": "4 Newton's Method",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          123.97265625,
+          325.031982421875
+        ],
+        [
+          275.5088195800781,
+          325.031982421875
+        ],
+        [
+          275.5088195800781,
+          339.378173828125
+        ],
+        [
+          123.97265625,
+          339.378173828125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          691
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          270
+        ],
+        [
+          "Line",
+          60
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Equation",
+          4
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          90
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\ex4"
+}

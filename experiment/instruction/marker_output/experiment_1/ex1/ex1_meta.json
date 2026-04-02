@@ -1,0 +1,356 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Experiment 1: Linear Regression",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          182.17578125,
+          164.27508544921875
+        ],
+        [
+          410.1494140625,
+          164.27508544921875
+        ],
+        [
+          410.1494140625,
+          181.49005126953125
+        ],
+        [
+          182.17578125,
+          181.49005126953125
+        ]
+      ]
+    },
+    {
+      "title": "1 Description",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          124.5546875,
+          261.7481689453125
+        ],
+        [
+          230.06588745117188,
+          261.7481689453125
+        ],
+        [
+          230.06588745117188,
+          276.28125
+        ],
+        [
+          124.5546875,
+          276.28125
+        ]
+      ]
+    },
+    {
+      "title": "2 Data",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          123.390625,
+          364.3351745605469
+        ],
+        [
+          183.31228637695312,
+          364.3351745605469
+        ],
+        [
+          183.31228637695312,
+          378.6811828613281
+        ],
+        [
+          123.390625,
+          378.6811828613281
+        ]
+      ]
+    },
+    {
+      "title": "3 Supervised Learning Problem",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          123.97265625,
+          488.8369140625
+        ],
+        [
+          358.6618957519531,
+          488.8369140625
+        ],
+        [
+          358.6618957519531,
+          505.1791687011719
+        ],
+        [
+          123.97265625,
+          505.1791687011719
+        ]
+      ]
+    },
+    {
+      "title": "4 2D Linear Regression",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          123.97265625,
+          416.4249572753906
+        ],
+        [
+          300.715087890625,
+          416.4249572753906
+        ],
+        [
+          300.715087890625,
+          431.2783203125
+        ],
+        [
+          123.97265625,
+          431.2783203125
+        ]
+      ]
+    },
+    {
+      "title": "5 Understanding J(\u03b8)",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          123.97265625,
+          252.8466796875
+        ],
+        [
+          285.5666198730469,
+          252.8466796875
+        ],
+        [
+          285.5666198730469,
+          268.05218505859375
+        ],
+        [
+          123.97265625,
+          268.05218505859375
+        ]
+      ]
+    },
+    {
+      "title": "6 Tips for Programming",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          123.390625,
+          273.51995849609375
+        ],
+        [
+          307.3125,
+          273.51995849609375
+        ],
+        [
+          307.3125,
+          287.8662109375
+        ],
+        [
+          123.390625,
+          287.8662109375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          656
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Code",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          222
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Code",
+          2
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          194
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Code",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          140
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\ex1"
+}

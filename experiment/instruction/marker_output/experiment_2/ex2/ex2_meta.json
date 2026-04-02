@@ -1,0 +1,374 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Experiment 2: Multivariate Linear Regression",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          138.0570068359375,
+          164.0419921875
+        ],
+        [
+          455.17138671875,
+          164.0419921875
+        ],
+        [
+          455.17138671875,
+          181.49005126953125
+        ],
+        [
+          138.0570068359375,
+          181.49005126953125
+        ]
+      ]
+    },
+    {
+      "title": "1 Description",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          124.5546875,
+          261.48046875
+        ],
+        [
+          230.06588745117188,
+          261.48046875
+        ],
+        [
+          230.06588745117188,
+          276.09417724609375
+        ],
+        [
+          124.5546875,
+          276.09417724609375
+        ]
+      ]
+    },
+    {
+      "title": "2 Data",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          123.390625,
+          352.3801574707031
+        ],
+        [
+          183.31228637695312,
+          352.3801574707031
+        ],
+        [
+          183.31228637695312,
+          366.7261657714844
+        ],
+        [
+          123.390625,
+          366.7261657714844
+        ]
+      ]
+    },
+    {
+      "title": "3 Preprocessing Your Data",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          123.390625,
+          443.0121154785156
+        ],
+        [
+          326.38330078125,
+          443.0121154785156
+        ],
+        [
+          326.38330078125,
+          457.5908203125
+        ],
+        [
+          123.390625,
+          457.5908203125
+        ]
+      ]
+    },
+    {
+      "title": "4 Gradient Descent",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          123.681640625,
+          662.7391510009766
+        ],
+        [
+          272.51690673828125,
+          662.7391510009766
+        ],
+        [
+          272.51690673828125,
+          677.0851593017578
+        ],
+        [
+          123.681640625,
+          677.0851593017578
+        ]
+      ]
+    },
+    {
+      "title": "5 Selecting A Learning Rate Using J(\u03b8)",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          124.80194091796875,
+          279.1591796875
+        ],
+        [
+          413.98455810546875,
+          279.1591796875
+        ],
+        [
+          413.98455810546875,
+          294.23419189453125
+        ],
+        [
+          124.80194091796875,
+          294.23419189453125
+        ]
+      ]
+    },
+    {
+      "title": "Answer the following questions:",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          139.74600219726562,
+          189.12109375
+        ],
+        [
+          298.7889709472656,
+          189.12109375
+        ],
+        [
+          298.7889709472656,
+          199.71649169921875
+        ],
+        [
+          139.74600219726562,
+          199.71649169921875
+        ]
+      ]
+    },
+    {
+      "title": "6 Normal Equation",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          123.681640625,
+          330.1396484375
+        ],
+        [
+          271.0614929199219,
+          330.1396484375
+        ],
+        [
+          271.0614929199219,
+          345.20123291015625
+        ],
+        [
+          123.681640625,
+          345.20123291015625
+        ]
+      ]
+    },
+    {
+      "title": "Answer the following questions:",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          137.359375,
+          435.69891357421875
+        ],
+        [
+          298.7889709472656,
+          435.69891357421875
+        ],
+        [
+          298.7889709472656,
+          445.6614990234375
+        ],
+        [
+          137.359375,
+          445.6614990234375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          622
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Code",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          255
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "Equation",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          132
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Code",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          89
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\ex2"
+}
