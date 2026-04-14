@@ -159,46 +159,39 @@
   - `/Producer`: `pdfTeX-1.40.15`
   - `/Trapped`: `/False`
 
-## 5. ex5.pdf
+## 5. 数据预处理实验手册.pdf
 
-- File: `D:\SDU\Course\MachineLearningAndPatternRecognition\experiment\5\text\ex5.pdf`
-- Size (bytes): `300844`
-- Pages: `7`
+- File: `D:\SDU\Course\MachineLearningAndPatternRecognition\experiment\5\text\数据预处理实验手册.pdf`
+- Size (bytes): `2307917`
+- Pages: `31`
 - Encrypted: `False`
 - Title: `N/A`
-- Author: `N/A`
+- Author: `w00280246`
 - Subject: `N/A`
-- Creator: `TeX(Infix Pro)`
-- Producer: `pdfTeX-1.40.15`
-- CreationDate: `2017-11-08 15:03:26+08:00`
-- ModDate: `2018-11-02 09:01:02`
+- Creator: `Microsoft® Word 2016`
+- Producer: `Microsoft® Word 2016`
+- CreationDate: `2021-04-09 13:50:29+08:00`
+- ModDate: `2021-04-09 13:50:29+08:00`
 - Copyright/Rights: `N/A`
 - Fonts:
-  - `/BUSSTP+CMBX10`
-  - `/DUYEAD+CMSY10`
-  - `/FFBWUV+CMBX8`
-  - `/FRCSVV+CMMI10`
-  - `/HNVCEO+CMEX10`
-  - `/KDMWYM+CMTI8`
-  - `/MDHFAD+CMMI5`
-  - `/MWINGM+CMMI7`
-  - `/NUUFHV+CMR8`
-  - `/OTZNJR+CMR7`
-  - `/PHQGHU+Times New Roman`
-  - `/PXBGHL+CMSY7`
-  - `/XJDZXQ+CMR10`
-  - `/XYBSMX+CMSY8`
-  - `/ZRSOSB+CMBX12`
+  - `/ABCDEE+ArialUnicodeMS`
+  - `/ABCDEE+Calibri`
+  - `/ABCDEE+Cambria`
+  - `/ABCDEE+Corbel`
+  - `/ABCDEE+Corbel-Bold`
+  - `/ABCDEE+MicrosoftYaHei`
+  - `/ABCDEE+MicrosoftYaHei-Bold`
+  - `/ABCDEE+SimSun`
+  - `/ABCDEE+Wingdings-Regular`
+  - `/ArialMT`
+  - `/Helvetica`
+  - `/SymbolMT`
 - Extra Metadata Keys:
-  - `/CreationDate`: `D:20171108150326+08'00'`
-  - `/Creator`: `TeX(Infix Pro)`
-  - `/ICNAppName`: `Infix Pro`
-  - `/ICNAppPlatform`: `Win`
-  - `/ICNAppVersion`: `7.3.0`
-  - `/ModDate`: `D:20181102090102`
-  - `/PTEX.Fullbanner`: `This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) kpathsea version 6.2.0`
-  - `/Producer`: `pdfTeX-1.40.15`
-  - `/Trapped`: `/False`
+  - `/Author`: `w00280246`
+  - `/CreationDate`: `D:20210409135029+08'00'`
+  - `/Creator`: `Microsoft® Word 2016`
+  - `/ModDate`: `D:20210409135029+08'00'`
+  - `/Producer`: `Microsoft® Word 2016`
 
 ## 6. machine_learning00_admin.pdf
 
@@ -331,3 +324,43 @@
   - `/ModDate`: `D:20260331012518+08'00'`
   - `/Producer`: `Microsoft® PowerPoint® 2021`
   - `/Title`: `PowerPoint 演示文稿`
+
+## 10. machine_learning04_pca.pdf
+
+- File: `D:\SDU\Course\MachineLearningAndPatternRecognition\text\machine_learning04_pca.pdf`
+- Size (bytes): `6092998`
+- Pages: `73`
+- Encrypted: `False`
+- Title: `N/A`
+- Author: `N/A`
+- Subject: `N/A`
+- Creator: `WPS Presentation`
+- Producer: `N/A`
+- CreationDate: `2026-04-07 22:01:09+08:00`
+- ModDate: `2026-04-07 22:01:09+08:00`
+- Copyright/Rights: `N/A`
+- Fonts:
+  - `/CARUHW+JetBrainsMono-Regular`
+  - `/CSKSUK+Wingdings-Regular`
+  - `/CWLLTB+Arial-BoldMT`
+  - `/DCWGQU+CambriaMath`
+  - `/ECAGAJ+Calibri-Italic`
+  - `/KMIZYY+SegoeUISymbol`
+  - `/LNUHNF+SimSun`
+  - `/NPTKMQ+Calibri-BoldItalic`
+  - `/TVOIEN+Calibri-Bold`
+  - `/VMBCQV+ArialMT`
+  - `/ZLXSHE+Calibri`
+- Extra Metadata Keys:
+  - `/Author`: ``
+  - `/Comments`: ``
+  - `/Company`: ``
+  - `/CreationDate`: `D:20260407220109+08'00'`
+  - `/Creator`: `WPS Presentation`
+  - `/Keywords`: ``
+  - `/ModDate`: `D:20260407220109+08'00'`
+  - `/Producer`: ``
+  - `/SourceModified`: `D:20260407220109+08'00'`
+  - `/Subject`: ``
+  - `/Title`: ``
+  - `/Trapped`: `/False`
