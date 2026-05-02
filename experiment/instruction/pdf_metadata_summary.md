@@ -405,3 +405,81 @@
   - `/Subject`: ``
   - `/Title`: ``
   - `/Trapped`: `/False`
+
+## 12. machine_learning05_lda.pdf
+
+- File: `D:\SDU\Course\MachineLearningAndPatternRecognition\text\machine_learning05_lda.pdf`
+- Size (bytes): `4245895`
+- Pages: `54`
+- Encrypted: `False`
+- Title: `N/A`
+- Author: `N/A`
+- Subject: `N/A`
+- Creator: `WPS Presentation`
+- Producer: `N/A`
+- CreationDate: `2026-04-20 22:27:11+08:00`
+- ModDate: `2026-04-20 22:27:11+08:00`
+- Copyright/Rights: `N/A`
+- Fonts:
+  - `/CSKSUK+Wingdings-Regular`
+  - `/DCWGQU+CambriaMath`
+  - `/ECAGAJ+Calibri-Italic`
+  - `/KMIZYY+SegoeUISymbol`
+  - `/LNUHNF+SimSun`
+  - `/NPTKMQ+Calibri-BoldItalic`
+  - `/TVOIEN+Calibri-Bold`
+  - `/VMBCQV+ArialMT`
+  - `/ZLXSHE+Calibri`
+- Extra Metadata Keys:
+  - `/Author`: ``
+  - `/Comments`: ``
+  - `/Company`: ``
+  - `/CreationDate`: `D:20260420222711+08'00'`
+  - `/Creator`: `WPS Presentation`
+  - `/Keywords`: ``
+  - `/ModDate`: `D:20260420222711+08'00'`
+  - `/Producer`: ``
+  - `/SourceModified`: `D:20260420222711+08'00'`
+  - `/Subject`: ``
+  - `/Title`: ``
+  - `/Trapped`: `/False`
+
+## 13. machine_learning06_feature_selection.pdf
+
+- File: `D:\SDU\Course\MachineLearningAndPatternRecognition\text\machine_learning06_feature_selection.pdf`
+- Size (bytes): `2803936`
+- Pages: `52`
+- Encrypted: `False`
+- Title: `N/A`
+- Author: `N/A`
+- Subject: `N/A`
+- Creator: `WPS 演示`
+- Producer: `N/A`
+- CreationDate: `2026-05-02 17:45:35+08:00`
+- ModDate: `2026-05-02 17:45:35+08:00`
+- Copyright/Rights: `N/A`
+- Fonts:
+  - `/CARUHW+JetBrainsMono-Regular`
+  - `/CSKSUK+Wingdings-Regular`
+  - `/CWLLTB+Arial-BoldMT`
+  - `/DCWGQU+CambriaMath`
+  - `/ECAGAJ+Calibri-Italic`
+  - `/LNUHNF+SimSun`
+  - `/NPTKMQ+Calibri-BoldItalic`
+  - `/SKKTBP+MongolianBaiti`
+  - `/TVOIEN+Calibri-Bold`
+  - `/VMBCQV+ArialMT`
+  - `/ZLXSHE+Calibri`
+- Extra Metadata Keys:
+  - `/Author`: ``
+  - `/Comments`: ``
+  - `/Company`: ``
+  - `/CreationDate`: `D:20260502174535+08'00'`
+  - `/Creator`: `WPS 演示`
+  - `/Keywords`: ``
+  - `/ModDate`: `D:20260502174535+08'00'`
+  - `/Producer`: ``
+  - `/SourceModified`: `D:20260502174535+08'00'`
+  - `/Subject`: ``
+  - `/Title`: ``
+  - `/Trapped`: `/False`
