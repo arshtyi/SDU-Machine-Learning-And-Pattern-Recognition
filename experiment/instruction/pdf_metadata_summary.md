@@ -4,7 +4,7 @@
 
 ## 1. ex1.pdf
 
-- File: `/mnt/d/SDU/Course/MachineLearningAndPatternRecognition/experiment/1/text/ex1.pdf`
+- File: `/mnt/d/sdu/course/machinelearningandpatternrecognition/experiment/1/text/ex1.pdf`
 - Size (bytes): `270238`
 - Pages: `4`
 - Encrypted: `False`
@@ -49,7 +49,7 @@
 
 ## 2. ex2.pdf
 
-- File: `/mnt/d/SDU/Course/MachineLearningAndPatternRecognition/experiment/2/text/ex2.pdf`
+- File: `/mnt/d/sdu/course/machinelearningandpatternrecognition/experiment/2/text/ex2.pdf`
 - Size (bytes): `244402`
 - Pages: `4`
 - Encrypted: `False`
@@ -93,7 +93,7 @@
 
 ## 3. ex3.pdf
 
-- File: `/mnt/d/SDU/Course/MachineLearningAndPatternRecognition/experiment/3/text/ex3.pdf`
+- File: `/mnt/d/sdu/course/machinelearningandpatternrecognition/experiment/3/text/ex3.pdf`
 - Size (bytes): `86631`
 - Pages: `3`
 - Encrypted: `False`
@@ -120,7 +120,7 @@
 
 ## 4. ex4.pdf
 
-- File: `/mnt/d/SDU/Course/MachineLearningAndPatternRecognition/experiment/4/text/ex4.pdf`
+- File: `/mnt/d/sdu/course/machinelearningandpatternrecognition/experiment/4/text/ex4.pdf`
 - Size (bytes): `244765`
 - Pages: `3`
 - Encrypted: `False`
@@ -161,7 +161,7 @@
 
 ## 5. 数据预处理实验手册.pdf
 
-- File: `/mnt/d/SDU/Course/MachineLearningAndPatternRecognition/experiment/5/text/数据预处理实验手册.pdf`
+- File: `/mnt/d/sdu/course/machinelearningandpatternrecognition/experiment/5/text/数据预处理实验手册.pdf`
 - Size (bytes): `2307917`
 - Pages: `31`
 - Encrypted: `False`
@@ -195,7 +195,7 @@
 
 ## 6. ex5.pdf
 
-- File: `/mnt/d/SDU/Course/MachineLearningAndPatternRecognition/experiment/6/text/ex5.pdf`
+- File: `/mnt/d/sdu/course/machinelearningandpatternrecognition/experiment/6/text/ex5.pdf`
 - Size (bytes): `300844`
 - Pages: `7`
 - Encrypted: `False`
@@ -236,7 +236,7 @@
 
 ## 7. 特征工程实验手册.pdf
 
-- File: `/mnt/d/SDU/Course/MachineLearningAndPatternRecognition/experiment/7/text/特征工程实验手册.pdf`
+- File: `/mnt/d/sdu/course/machinelearningandpatternrecognition/experiment/7/text/特征工程实验手册.pdf`
 - Size (bytes): `584777`
 - Pages: `14`
 - Encrypted: `False`
@@ -303,9 +303,79 @@ WTNbsqVnLccRi24I84HfXSzPQqaHSraGD4a331JfDq4kfWkZev8vu2w2StLt8kiT`
   - `/slevel`: `5`
   - `/slevelui`: `0`
 
-## 8. machine_learning00_admin.pdf
+## 8. 监督学习实验手册.pdf
 
-- File: `/mnt/d/SDU/Course/MachineLearningAndPatternRecognition/text/machine_learning00_admin.pdf`
+- File: `/mnt/d/sdu/course/machinelearningandpatternrecognition/experiment/8/text/监督学习实验手册.pdf`
+- Size (bytes): `462557`
+- Pages: `12`
+- Encrypted: `False`
+- Title: `N/A`
+- Author: `w00280246`
+- Subject: `N/A`
+- Creator: `Acrobat PDFMaker 21 Word 版`
+- Producer: `Adobe PDF Library 21.1.181`
+- CreationDate: `2021-04-22 22:42:28+08:00`
+- ModDate: `2021-04-22 22:42:50+08:00`
+- Copyright/Rights: `N/A`
+- Fonts:
+  - `/BDEHTR+Calibri`
+  - `/DYKTVN+Corbel-Bold`
+  - `/GTOBLH+SimSun`
+  - `/JYQXBB+ArialUnicodeMS`
+  - `/OPGEYR+ArialUnicodeMS`
+  - `/VCFSND+SimSun`
+  - `/VZYESD+Corbel`
+- Extra Metadata Keys:
+  - `/Author`: `w00280246`
+  - `/Comments`: ``
+  - `/Company`: `Huawei Technologies Co.,Ltd.`
+  - `/Confidential`: ``
+  - `/ContentTypeId`: `0x010100CC226774B8D87F4D92D9D1F6859ED44E`
+  - `/CreationDate`: `D:20210422224228+08'00'`
+  - `/Creator`: `Acrobat PDFMaker 21 Word 版`
+  - `/DocumentName`: ``
+  - `/DocumentVersion`: `01`
+  - `/Keywords`: ``
+  - `/ModDate`: `D:20210422224250+08'00'`
+  - `/Producer`: `Adobe PDF Library 21.1.181`
+  - `/Product&Project Name`: ``
+  - `/ProductVersion`: ``
+  - `/ProprietaryDeclaration`: `华为专有和保密信息
+版权所有 © 华为技术有限公司`
+  - `/ReleaseDate`: `2015-12`
+  - `/SourceModified`: `D:20210422144203`
+  - `/Subject`: ``
+  - `/Title`: ``
+  - `/_2015_ms_pID_725343`: `(3)csNoEingEF1pDcUutgq9hC5EemwfNeZ2vvj/sFB0V7oX/PZgcttEC1d4OenGZlYEt76hpZii
+IzBH0Pe1KHy/gWFeNdSATsByHFloRa4Ev+gcb+E9mIor5zV8GxZBSqLb1qRVdCI8RT9vFcWd
+Yi7VWJfv/i4wUo7n/kvlEfnZ+JzEEUWZaoBxVPxGQKyBWTjSG1tJ4PSguofEakc9L7kcjqe2
+tRZRUP4j0i0dN+mqlU`
+  - `/_2015_ms_pID_7253431`: `Ws5pFwZ0uPA2hz6C0hr7NZPeLvacrMm8kAJUeipL+b1XtohznECujy
+gVSmKeq2g1GzmW8/bD45JDe+0rCoifijuVx7nSzXIMQLltWA/NliRf/Fk6ypzaEfj3Jsz5e5
+HKIr5OBhwaOL12r9o/HwLkOjOWttqtz/IgtqNb+X9QgzxnCSzLekyNfLEgtI70/53kL17uBh
+nfINCCaWy5j6G8LJQzhdXpTjGPrmQgmbg68n`
+  - `/_2015_ms_pID_7253432`: `XA==`
+  - `/_change`: ``
+  - `/_full-control`: ``
+  - `/_new_ms_pID_72543`: `(3)NqcJu9mtpIkQwNVhxO+yTbOSo8pNZ11SYbigMmY7lr0nhSlNNYxTnxCL4pCSzfaJNjp54Gd0
+EyS470WtmkQxbxyHR+AWpxM0BVLlXcYXFvKPFTB2SkJrpAwp2p6UmYrhGRuVy4OMYUuzvzkN
+sY1RE8TDJd8jR17xUjANuBSnU0nu5+18JdLUw7zgSnWmxIlTrMu4RlHfQsDO692sdEk5p4Nc
+Vi34w/VPSCA1TF1Tad`
+  - `/_new_ms_pID_725431`: `WFH/CM7ewGglDnbdxvmHpjitKLF/pgK9XQR/6napatPeAmB/yqoxwY
+8AOb2lUiFb6vPBpji0xn9aE+bVwdI5B+/VWQteYSSvAX1IMTeflRtFR3lzGZz3U0qUuiRQwi
+ogFueR88VCAhi4AxfgEsngqOrSpc2qswlcsi/aItWdKJTS0dt+d4OJFUjdOj2NViqn1qD/+f
+dT9kAnz5TNWZFVMrmN4BzaEYN+bk/kIdasFl`
+  - `/_new_ms_pID_725432`: `XH/TLfi2cyJDXZpa0fxWw2RI5ihTD8awSdSY
+dH2YTxdbU64rYYyVY8Xiyd/3VMIjbW+IA0gvvkbzo18YjFyD1S0MYIZQ+Fbq/tFijMlYpJwQ
+WTNbsqVnLccRi24I84HfXSzPQqaHSraGD4a331JfDq4kfWkZev8vu2w2StLt8kiT`
+  - `/_readonly`: ``
+  - `/sflag`: `1574825726`
+  - `/slevel`: `5`
+  - `/slevelui`: `0`
+
+## 9. machine_learning00_admin.pdf
+
+- File: `/mnt/d/sdu/course/machinelearningandpatternrecognition/text/machine_learning00_admin.pdf`
 - Size (bytes): `656499`
 - Pages: `8`
 - Encrypted: `False`
@@ -336,9 +406,9 @@ WTNbsqVnLccRi24I84HfXSzPQqaHSraGD4a331JfDq4kfWkZev8vu2w2StLt8kiT`
   - `/Producer`: `Microsoft® PowerPoint® 2021`
   - `/Title`: `PowerPoint 演示文稿`
 
-## 9. machine_learning01_overview.pdf
+## 10. machine_learning01_overview.pdf
 
-- File: `/mnt/d/SDU/Course/MachineLearningAndPatternRecognition/text/machine_learning01_overview.pdf`
+- File: `/mnt/d/sdu/course/machinelearningandpatternrecognition/text/machine_learning01_overview.pdf`
 - Size (bytes): `3725944`
 - Pages: `91`
 - Encrypted: `False`
@@ -371,9 +441,9 @@ WTNbsqVnLccRi24I84HfXSzPQqaHSraGD4a331JfDq4kfWkZev8vu2w2StLt8kiT`
   - `/Producer`: `Microsoft® PowerPoint® 2021`
   - `/Title`: `PowerPoint 演示文稿`
 
-## 10. machine_learning02_linear.pdf
+## 11. machine_learning02_linear.pdf
 
-- File: `/mnt/d/SDU/Course/MachineLearningAndPatternRecognition/text/machine_learning02_linear.pdf`
+- File: `/mnt/d/sdu/course/machinelearningandpatternrecognition/text/machine_learning02_linear.pdf`
 - Size (bytes): `2021011`
 - Pages: `72`
 - Encrypted: `False`
@@ -403,9 +473,9 @@ WTNbsqVnLccRi24I84HfXSzPQqaHSraGD4a331JfDq4kfWkZev8vu2w2StLt8kiT`
   - `/Producer`: `Microsoft® PowerPoint® 2021`
   - `/Title`: `PowerPoint 演示文稿`
 
-## 11. machine_learning03_gradient_decent.pdf
+## 12. machine_learning03_gradient_decent.pdf
 
-- File: `/mnt/d/SDU/Course/MachineLearningAndPatternRecognition/text/machine_learning03_gradient_decent.pdf`
+- File: `/mnt/d/sdu/course/machinelearningandpatternrecognition/text/machine_learning03_gradient_decent.pdf`
 - Size (bytes): `1408028`
 - Pages: `33`
 - Encrypted: `False`
@@ -435,9 +505,9 @@ WTNbsqVnLccRi24I84HfXSzPQqaHSraGD4a331JfDq4kfWkZev8vu2w2StLt8kiT`
   - `/Producer`: `Microsoft® PowerPoint® 2021`
   - `/Title`: `PowerPoint 演示文稿`
 
-## 12. machine_learning04_pca.pdf
+## 13. machine_learning04_pca.pdf
 
-- File: `/mnt/d/SDU/Course/MachineLearningAndPatternRecognition/text/machine_learning04_pca.pdf`
+- File: `/mnt/d/sdu/course/machinelearningandpatternrecognition/text/machine_learning04_pca.pdf`
 - Size (bytes): `6092998`
 - Pages: `73`
 - Encrypted: `False`
@@ -475,9 +545,9 @@ WTNbsqVnLccRi24I84HfXSzPQqaHSraGD4a331JfDq4kfWkZev8vu2w2StLt8kiT`
   - `/Title`: ``
   - `/Trapped`: `/False`
 
-## 13. machine_learning05_lda.pdf
+## 14. machine_learning05_lda.pdf
 
-- File: `/mnt/d/SDU/Course/MachineLearningAndPatternRecognition/text/machine_learning05_lda.pdf`
+- File: `/mnt/d/sdu/course/machinelearningandpatternrecognition/text/machine_learning05_lda.pdf`
 - Size (bytes): `4245895`
 - Pages: `54`
 - Encrypted: `False`
@@ -513,9 +583,9 @@ WTNbsqVnLccRi24I84HfXSzPQqaHSraGD4a331JfDq4kfWkZev8vu2w2StLt8kiT`
   - `/Title`: ``
   - `/Trapped`: `/False`
 
-## 14. machine_learning06_feature_selection.pdf
+## 15. machine_learning06_feature_selection.pdf
 
-- File: `/mnt/d/SDU/Course/MachineLearningAndPatternRecognition/text/machine_learning06_feature_selection.pdf`
+- File: `/mnt/d/sdu/course/machinelearningandpatternrecognition/text/machine_learning06_feature_selection.pdf`
 - Size (bytes): `2803936`
 - Pages: `52`
 - Encrypted: `False`
@@ -553,9 +623,9 @@ WTNbsqVnLccRi24I84HfXSzPQqaHSraGD4a331JfDq4kfWkZev8vu2w2StLt8kiT`
   - `/Title`: ``
   - `/Trapped`: `/False`
 
-## 15. machine_learning07_bayes.pdf
+## 16. machine_learning07_bayes.pdf
 
-- File: `/mnt/d/SDU/Course/MachineLearningAndPatternRecognition/text/machine_learning07_bayes.pdf`
+- File: `/mnt/d/sdu/course/machinelearningandpatternrecognition/text/machine_learning07_bayes.pdf`
 - Size (bytes): `5501293`
 - Pages: `61`
 - Encrypted: `False`
@@ -591,3 +661,39 @@ WTNbsqVnLccRi24I84HfXSzPQqaHSraGD4a331JfDq4kfWkZev8vu2w2StLt8kiT`
   - `/Subject`: ``
   - `/Title`: ``
   - `/Trapped`: `/False`
+
+## 17. machine_learning08_SVM.pdf
+
+- File: `/mnt/d/sdu/course/machinelearningandpatternrecognition/text/machine_learning08_SVM.pdf`
+- Size (bytes): `2681299`
+- Pages: `73`
+- Encrypted: `False`
+- Title: `Math Behind Problems Theory, and Prototype`
+- Author: `Administrator`
+- Subject: `N/A`
+- Creator: `Microsoft® PowerPoint® 2021`
+- Producer: `Microsoft® PowerPoint® 2021`
+- CreationDate: `2026-05-18 20:47:17+08:00`
+- ModDate: `2026-05-18 20:47:17+08:00`
+- Copyright/Rights: `N/A`
+- Fonts:
+  - `/BCDEEE+Calibri-Bold`
+  - `/BCDFEE+MongolianBaiti`
+  - `/BCDGEE+ArialMT`
+  - `/BCDHEE+Calibri`
+  - `/BCDIEE+CambriaMath`
+  - `/BCDJEE+Tahoma-Bold`
+  - `/BCDKEE+Calibri-BoldItalic`
+  - `/BCDLEE+Calibri-Italic`
+  - `/BCDMEE+Calibri`
+  - `/BCDNEE+CambriaMath`
+  - `/BCDOEE+SimSun`
+  - `/BCDPEE+Calibri-Bold`
+  - `/BCEAEE+Wingdings-Regular`
+- Extra Metadata Keys:
+  - `/Author`: `Administrator`
+  - `/CreationDate`: `D:20260518204717+08'00'`
+  - `/Creator`: `Microsoft® PowerPoint® 2021`
+  - `/ModDate`: `D:20260518204717+08'00'`
+  - `/Producer`: `Microsoft® PowerPoint® 2021`
+  - `/Title`: `Math Behind Problems Theory, and Prototype`
