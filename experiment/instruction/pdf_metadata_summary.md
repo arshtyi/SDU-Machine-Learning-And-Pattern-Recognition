@@ -4,7 +4,7 @@
 
 ## 1. ex1.pdf
 
-- File: `/mnt/d/sdu/course/machinelearningandpatternrecognition/experiment/1/text/ex1.pdf`
+- File: `/mnt/d/campus/bachelor/course/machinelearningandpatternrecognition/experiment/1/text/ex1.pdf`
 - Size (bytes): `270238`
 - Pages: `4`
 - Encrypted: `False`
@@ -47,9 +47,42 @@
   - `/Producer`: `pdfTeX-1.40.15`
   - `/Trapped`: `/False`
 
-## 2. ex2.pdf
+## 2. ex10.pdf
 
-- File: `/mnt/d/sdu/course/machinelearningandpatternrecognition/experiment/2/text/ex2.pdf`
+- File: `/mnt/d/campus/bachelor/course/machinelearningandpatternrecognition/experiment/10/text/ex10.pdf`
+- Size (bytes): `408553`
+- Pages: `7`
+- Encrypted: `False`
+- Title: `N/A`
+- Author: `N/A`
+- Subject: `N/A`
+- Creator: `LaTeX with hyperref package`
+- Producer: `pdfTeX-1.40.18`
+- CreationDate: `2021-05-28 08:43:26+00:00`
+- ModDate: `2021-05-28 08:43:26+00:00`
+- Copyright/Rights: `N/A`
+- Fonts:
+  - `/BUPBDW+CMBX12`
+  - `/ECGLJG+CMR10`
+  - `/HCCGKD+CMR17`
+  - `/JMQRUS+CMITT10`
+  - `/TAVEIT+CMTT10`
+  - `/TWKHXG+CMR12`
+- Extra Metadata Keys:
+  - `/Author`: ``
+  - `/CreationDate`: `D:20210528084326Z`
+  - `/Creator`: `LaTeX with hyperref package`
+  - `/Keywords`: ``
+  - `/ModDate`: `D:20210528084326Z`
+  - `/PTEX.Fullbanner`: `This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) kpathsea version 6.2.3`
+  - `/Producer`: `pdfTeX-1.40.18`
+  - `/Subject`: ``
+  - `/Title`: ``
+  - `/Trapped`: `/False`
+
+## 3. ex2.pdf
+
+- File: `/mnt/d/campus/bachelor/course/machinelearningandpatternrecognition/experiment/2/text/ex2.pdf`
 - Size (bytes): `244402`
 - Pages: `4`
 - Encrypted: `False`
@@ -91,9 +124,9 @@
   - `/Producer`: `pdfTeX-1.40.15`
   - `/Trapped`: `/False`
 
-## 3. ex3.pdf
+## 4. ex3.pdf
 
-- File: `/mnt/d/sdu/course/machinelearningandpatternrecognition/experiment/3/text/ex3.pdf`
+- File: `/mnt/d/campus/bachelor/course/machinelearningandpatternrecognition/experiment/3/text/ex3.pdf`
 - Size (bytes): `86631`
 - Pages: `3`
 - Encrypted: `False`
@@ -118,9 +151,9 @@
   - `/Producer`: `pdfTeX-1.40.18`
   - `/Trapped`: `/False`
 
-## 4. ex4.pdf
+## 5. ex4.pdf
 
-- File: `/mnt/d/sdu/course/machinelearningandpatternrecognition/experiment/4/text/ex4.pdf`
+- File: `/mnt/d/campus/bachelor/course/machinelearningandpatternrecognition/experiment/4/text/ex4.pdf`
 - Size (bytes): `244765`
 - Pages: `3`
 - Encrypted: `False`
@@ -159,9 +192,9 @@
   - `/Producer`: `pdfTeX-1.40.15`
   - `/Trapped`: `/False`
 
-## 5. 数据预处理实验手册.pdf
+## 6. 数据预处理实验手册.pdf
 
-- File: `/mnt/d/sdu/course/machinelearningandpatternrecognition/experiment/5/text/数据预处理实验手册.pdf`
+- File: `/mnt/d/campus/bachelor/course/machinelearningandpatternrecognition/experiment/5/text/数据预处理实验手册.pdf`
 - Size (bytes): `2307917`
 - Pages: `31`
 - Encrypted: `False`
@@ -193,9 +226,9 @@
   - `/ModDate`: `D:20210409135029+08'00'`
   - `/Producer`: `Microsoft® Word 2016`
 
-## 6. ex5.pdf
+## 7. ex5.pdf
 
-- File: `/mnt/d/sdu/course/machinelearningandpatternrecognition/experiment/6/text/ex5.pdf`
+- File: `/mnt/d/campus/bachelor/course/machinelearningandpatternrecognition/experiment/6/text/ex5.pdf`
 - Size (bytes): `300844`
 - Pages: `7`
 - Encrypted: `False`
@@ -234,9 +267,9 @@
   - `/Producer`: `pdfTeX-1.40.15`
   - `/Trapped`: `/False`
 
-## 7. 特征工程实验手册.pdf
+## 8. 特征工程实验手册.pdf
 
-- File: `/mnt/d/sdu/course/machinelearningandpatternrecognition/experiment/7/text/特征工程实验手册.pdf`
+- File: `/mnt/d/campus/bachelor/course/machinelearningandpatternrecognition/experiment/7/text/特征工程实验手册.pdf`
 - Size (bytes): `584777`
 - Pages: `14`
 - Encrypted: `False`
@@ -303,9 +336,9 @@ WTNbsqVnLccRi24I84HfXSzPQqaHSraGD4a331JfDq4kfWkZev8vu2w2StLt8kiT`
   - `/slevel`: `5`
   - `/slevelui`: `0`
 
-## 8. 监督学习实验手册.pdf
+## 9. 监督学习实验手册.pdf
 
-- File: `/mnt/d/sdu/course/machinelearningandpatternrecognition/experiment/8/text/监督学习实验手册.pdf`
+- File: `/mnt/d/campus/bachelor/course/machinelearningandpatternrecognition/experiment/8/text/监督学习实验手册.pdf`
 - Size (bytes): `462557`
 - Pages: `12`
 - Encrypted: `False`
@@ -373,9 +406,9 @@ WTNbsqVnLccRi24I84HfXSzPQqaHSraGD4a331JfDq4kfWkZev8vu2w2StLt8kiT`
   - `/slevel`: `5`
   - `/slevelui`: `0`
 
-## 9. ex9.pdf
+## 10. ex9.pdf
 
-- File: `/mnt/d/sdu/course/machinelearningandpatternrecognition/experiment/9/text/ex9.pdf`
+- File: `/mnt/d/campus/bachelor/course/machinelearningandpatternrecognition/experiment/9/text/ex9.pdf`
 - Size (bytes): `74031`
 - Pages: `2`
 - Encrypted: `False`
@@ -405,9 +438,9 @@ WTNbsqVnLccRi24I84HfXSzPQqaHSraGD4a331JfDq4kfWkZev8vu2w2StLt8kiT`
   - `/Title`: ``
   - `/Trapped`: `/False`
 
-## 10. machine_learning00_admin.pdf
+## 11. machine_learning00_admin.pdf
 
-- File: `/mnt/d/sdu/course/machinelearningandpatternrecognition/text/machine_learning00_admin.pdf`
+- File: `/mnt/d/campus/bachelor/course/machinelearningandpatternrecognition/text/machine_learning00_admin.pdf`
 - Size (bytes): `656499`
 - Pages: `8`
 - Encrypted: `False`
@@ -438,9 +471,9 @@ WTNbsqVnLccRi24I84HfXSzPQqaHSraGD4a331JfDq4kfWkZev8vu2w2StLt8kiT`
   - `/Producer`: `Microsoft® PowerPoint® 2021`
   - `/Title`: `PowerPoint 演示文稿`
 
-## 11. machine_learning01_overview.pdf
+## 12. machine_learning01_overview.pdf
 
-- File: `/mnt/d/sdu/course/machinelearningandpatternrecognition/text/machine_learning01_overview.pdf`
+- File: `/mnt/d/campus/bachelor/course/machinelearningandpatternrecognition/text/machine_learning01_overview.pdf`
 - Size (bytes): `3725944`
 - Pages: `91`
 - Encrypted: `False`
@@ -473,9 +506,9 @@ WTNbsqVnLccRi24I84HfXSzPQqaHSraGD4a331JfDq4kfWkZev8vu2w2StLt8kiT`
   - `/Producer`: `Microsoft® PowerPoint® 2021`
   - `/Title`: `PowerPoint 演示文稿`
 
-## 12. machine_learning02_linear.pdf
+## 13. machine_learning02_linear.pdf
 
-- File: `/mnt/d/sdu/course/machinelearningandpatternrecognition/text/machine_learning02_linear.pdf`
+- File: `/mnt/d/campus/bachelor/course/machinelearningandpatternrecognition/text/machine_learning02_linear.pdf`
 - Size (bytes): `2021011`
 - Pages: `72`
 - Encrypted: `False`
@@ -505,9 +538,9 @@ WTNbsqVnLccRi24I84HfXSzPQqaHSraGD4a331JfDq4kfWkZev8vu2w2StLt8kiT`
   - `/Producer`: `Microsoft® PowerPoint® 2021`
   - `/Title`: `PowerPoint 演示文稿`
 
-## 13. machine_learning03_gradient_decent.pdf
+## 14. machine_learning03_gradient_decent.pdf
 
-- File: `/mnt/d/sdu/course/machinelearningandpatternrecognition/text/machine_learning03_gradient_decent.pdf`
+- File: `/mnt/d/campus/bachelor/course/machinelearningandpatternrecognition/text/machine_learning03_gradient_decent.pdf`
 - Size (bytes): `1408028`
 - Pages: `33`
 - Encrypted: `False`
@@ -537,9 +570,9 @@ WTNbsqVnLccRi24I84HfXSzPQqaHSraGD4a331JfDq4kfWkZev8vu2w2StLt8kiT`
   - `/Producer`: `Microsoft® PowerPoint® 2021`
   - `/Title`: `PowerPoint 演示文稿`
 
-## 14. machine_learning04_pca.pdf
+## 15. machine_learning04_pca.pdf
 
-- File: `/mnt/d/sdu/course/machinelearningandpatternrecognition/text/machine_learning04_pca.pdf`
+- File: `/mnt/d/campus/bachelor/course/machinelearningandpatternrecognition/text/machine_learning04_pca.pdf`
 - Size (bytes): `6092998`
 - Pages: `73`
 - Encrypted: `False`
@@ -577,9 +610,9 @@ WTNbsqVnLccRi24I84HfXSzPQqaHSraGD4a331JfDq4kfWkZev8vu2w2StLt8kiT`
   - `/Title`: ``
   - `/Trapped`: `/False`
 
-## 15. machine_learning05_lda.pdf
+## 16. machine_learning05_lda.pdf
 
-- File: `/mnt/d/sdu/course/machinelearningandpatternrecognition/text/machine_learning05_lda.pdf`
+- File: `/mnt/d/campus/bachelor/course/machinelearningandpatternrecognition/text/machine_learning05_lda.pdf`
 - Size (bytes): `4245895`
 - Pages: `54`
 - Encrypted: `False`
@@ -615,9 +648,9 @@ WTNbsqVnLccRi24I84HfXSzPQqaHSraGD4a331JfDq4kfWkZev8vu2w2StLt8kiT`
   - `/Title`: ``
   - `/Trapped`: `/False`
 
-## 16. machine_learning06_feature_selection.pdf
+## 17. machine_learning06_feature_selection.pdf
 
-- File: `/mnt/d/sdu/course/machinelearningandpatternrecognition/text/machine_learning06_feature_selection.pdf`
+- File: `/mnt/d/campus/bachelor/course/machinelearningandpatternrecognition/text/machine_learning06_feature_selection.pdf`
 - Size (bytes): `2803936`
 - Pages: `52`
 - Encrypted: `False`
@@ -655,9 +688,9 @@ WTNbsqVnLccRi24I84HfXSzPQqaHSraGD4a331JfDq4kfWkZev8vu2w2StLt8kiT`
   - `/Title`: ``
   - `/Trapped`: `/False`
 
-## 17. machine_learning07_bayes.pdf
+## 18. machine_learning07_bayes.pdf
 
-- File: `/mnt/d/sdu/course/machinelearningandpatternrecognition/text/machine_learning07_bayes.pdf`
+- File: `/mnt/d/campus/bachelor/course/machinelearningandpatternrecognition/text/machine_learning07_bayes.pdf`
 - Size (bytes): `5501293`
 - Pages: `61`
 - Encrypted: `False`
@@ -694,9 +727,9 @@ WTNbsqVnLccRi24I84HfXSzPQqaHSraGD4a331JfDq4kfWkZev8vu2w2StLt8kiT`
   - `/Title`: ``
   - `/Trapped`: `/False`
 
-## 18. machine_learning08_SVM.pdf
+## 19. machine_learning08_SVM.pdf
 
-- File: `/mnt/d/sdu/course/machinelearningandpatternrecognition/text/machine_learning08_SVM.pdf`
+- File: `/mnt/d/campus/bachelor/course/machinelearningandpatternrecognition/text/machine_learning08_SVM.pdf`
 - Size (bytes): `2681299`
 - Pages: `73`
 - Encrypted: `False`
@@ -729,3 +762,41 @@ WTNbsqVnLccRi24I84HfXSzPQqaHSraGD4a331JfDq4kfWkZev8vu2w2StLt8kiT`
   - `/ModDate`: `D:20260518204717+08'00'`
   - `/Producer`: `Microsoft® PowerPoint® 2021`
   - `/Title`: `Math Behind Problems Theory, and Prototype`
+
+## 20. machine_learning09_decisiontree.pdf
+
+- File: `/mnt/d/campus/bachelor/course/machinelearningandpatternrecognition/text/machine_learning09_decisiontree.pdf`
+- Size (bytes): `8406204`
+- Pages: `130`
+- Encrypted: `False`
+- Title: `N/A`
+- Author: `N/A`
+- Subject: `N/A`
+- Creator: `WPS 演示`
+- Producer: `N/A`
+- CreationDate: `2026-06-09 09:23:04+08:00`
+- ModDate: `2026-06-09 09:23:04+08:00`
+- Copyright/Rights: `N/A`
+- Fonts:
+  - `/CSKSUK+Wingdings-Regular`
+  - `/DCWGQU+CambriaMath`
+  - `/ECAGAJ+Calibri-Italic`
+  - `/LNUHNF+SimSun`
+  - `/NPTKMQ+Calibri-BoldItalic`
+  - `/SKKTBP+MongolianBaiti`
+  - `/TVOIEN+Calibri-Bold`
+  - `/VMBCQV+ArialMT`
+  - `/ZLXSHE+Calibri`
+- Extra Metadata Keys:
+  - `/Author`: ``
+  - `/Comments`: ``
+  - `/Company`: ``
+  - `/CreationDate`: `D:20260609092304+08'00'`
+  - `/Creator`: `WPS 演示`
+  - `/Keywords`: ``
+  - `/ModDate`: `D:20260609092304+08'00'`
+  - `/Producer`: ``
+  - `/SourceModified`: `D:20260609092304+08'00'`
+  - `/Subject`: ``
+  - `/Title`: ``
+  - `/Trapped`: `/False`
